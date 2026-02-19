@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../LLM_for_Arduino"
+		},
+		{
+			"name": "LLM_for_Arduino2",
+			"path": "../../LLM_for_Arduino2"
+		},
+		{
+			"name": "LLM_With_Arduino_FN",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
